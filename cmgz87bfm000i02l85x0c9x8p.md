@@ -128,6 +128,6 @@ The pace of innovation in AI is increasing and opening up exciting new specializ
 
 Entering the AI ​​industry requires an investment—time, effort, and continuous learning. It's an exciting, challenging, and extremely rewarding field. Whether you're a recent graduate with fresh ideas or an experienced developer ready for a new technical challenge, your skills are needed to shape the future. The most successful AI professionals are those who are **curious, adaptable**, and lifelong learners.
 
-Start small, develop practical projects, build targeted networks, and continuously optimize your learning. The intelligent age awaits your contribution.
+> Start small, develop practical projects, build targeted networks, and continuously optimize your learning. The intelligent age awaits your contribution.
 
 **Your AI career begins today!**
