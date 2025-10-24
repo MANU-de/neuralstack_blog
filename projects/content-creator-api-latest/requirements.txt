@@ -1,0 +1,25 @@
+# Production dependencies for Content Creator API
+
+# FastAPI and web server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# AI and ML libraries
+crewai>=0.28.0
+crewai-tools>=0.1.0
+openai>=1.3.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# HTTP client for external requests
+httpx>=0.25.0
+
+# Data validation
+pydantic>=2.5.0
+
+# Logging
+coloredlogs>=15.0
+
+#Optional: For enhanced search capabilities
+serper>=0.1.0  # Uncomment if using SerperDevTool
