@@ -3,7 +3,7 @@ title: "🚧 Page Under Construction"
 datePublished: Thu Oct 16 2025 11:06:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmgtbedqk000302i992eb3pzy
 slug: page-under-construction
-tags: fullstackdevelopment
+tags: resources, fullstackdevelopment
 
 ---
 
