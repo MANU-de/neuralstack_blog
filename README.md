@@ -1,4 +1,4 @@
-NeuralStack|MS 🧠⚙️  
+NeuralStack | MS 🧠⚙️  
 *AI Full-Stack Development & Agentic AI Insights*
 
 Welcome to the official repository for *NeuralStack*, a blog focused on Agentic AI, full-stack development, and intelligent systems design.
