@@ -7,7 +7,7 @@ cuid: cmhw20tno000302l7aji31t5r
 slug: building-responsible-ai-human-ethical-and-compliance-considerations
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762954756692/bf7aa805-5396-49be-aca0-3dfac502c4d6.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1762955186408/a47d4d91-a108-4a0b-9e2f-ff6b875f84af.jpeg
-tags: responsibleai, aiethics, aicompliance, ethicalai, humancenteredai
+tags: responsibleai, aiethics, agentic, aicompliance, ethicalai, humancenteredai
 
 ---
 
