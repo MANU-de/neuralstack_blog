@@ -192,7 +192,5 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 5.  Push to the branch (`git push origin feature/your-feature`).
 6.  Open a Pull Request.
 
-## License
 
-This project is
 
