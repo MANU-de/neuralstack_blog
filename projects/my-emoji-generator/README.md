@@ -1,21 +1,30 @@
-My Emoji Generator
+🤖 My Emoji Generator: Gemma 3 270M-IT (ONNX)
 ===================
 
-This is a small web app that lets you generate custom emoji-style images right in your browser.
-It uses client-side JavaScript and a web worker to handle image generation without blocking the UI.
+A hyper-efficient AI project that leverages Google's compact Gemma 3 270M-IT model, fine-tuned for text-to-emoji translation and optimized using ONNX for high-speed, client-side inference in a web browser.
 
-How to run
+This repository contains the code and documentation for the fine-tuning process, ONNX conversion, and a simple web demo demonstrating on-device AI.
+
+✨ Key Features
 ----------
 
-- Open `index.html` in a modern browser (Chrome, Edge, Firefox, or Safari).
-- No build step or backend is required; everything runs locally in the browser.
+* **Ultra-Lightweight LLM:** Utilizes the 270 Million parameter version of Gemma 3 for minimal footprint.
 
-Project structure
+* **Emoji Translation:** Specialized fine-tuning to convert natural language into relevant emoji sequences.
+
+* **ONNX Optimization:** Converted for maximum efficiency using the Open Neural Network Exchange format.
+
+* Client-Side Inference:** Designed to run entirely in the browser using the [Transformers.js](https://www.google.com/search?q=https://huggingface.co/docs/transformers.js), enabling instant, private, and cost-effective responses.
+
+🚀 Hugging Face Model & Blog Post
 -----------------
 
-- `index.html` – Main HTML page and layout.
-- `style.css` – Styles for the app UI.
-- `script.js` – Main client-side logic and UI behavior.
-- `worker.js` – Web worker used for offloading heavy generation work.
+| Resource  | Description |
+| ------------- |:-------------:|
+| Model Repository | The optimized model is hosted on Hugging Face: [manuelaschrittwieser/myemoji-gemma-3-270m-it-onnx ](https://huggingface.co/manuelaschrittwieser/myemoji-gemma-3-270m-it-onnx) |
+| Base Model | The original model from Google: [google/gemma-3-270m-it](https://huggingface.co/google/gemma-3-270m-it) |
+| Blog Post | Read the full breakdown of the project on Neuralstack |
 
+🛠️ Project Structure
+----------
 
