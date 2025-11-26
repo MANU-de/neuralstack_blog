@@ -29,6 +29,8 @@ This repository contains the code and documentation for the fine-tuning process,
 ----------
 This repository is structured to separate the training/conversion process from the deployment demo.
 
+[https://colab.research.google.com/github/google-gemini/gemma-cookbook/blob/main/Demos/Emoji-Gemma-on-Web/resources/Fine_tune_Gemma_3_270M_for_emoji_generation.ipynb](https://colab.research.google.com/github/google-gemini/gemma-cookbook/blob/main/Demos/Emoji-Gemma-on-Web/resources/Fine_tune_Gemma_3_270M_for_emoji_generation.ipynb)
+
 ```
 my-emoji-generator/
 ├── training/                # Scripts and notebooks for fine-tuning
