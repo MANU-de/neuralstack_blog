@@ -7,7 +7,7 @@ cuid: cmiyhcdr3000002l4evol2cgf
 slug: designing-for-action-in-ai-systems
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765278582206/48c18cf6-fc84-4240-9ca0-4e0aebd76523.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765278606728/4032614d-e09a-4910-a5c3-41f757845a7d.png
-tags: software-architecture, system-design, ai-agents, large-language-models-llm, agentic, multi-agent-systems
+tags: resources, software-architecture, system-design, ai-agents, large-language-models-llm, agentic, multi-agent-systems
 
 ---
 
