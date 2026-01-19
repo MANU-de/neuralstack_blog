@@ -5,7 +5,7 @@ seoDescription: "Leverage transferable skills and learn essential ML foundations
 datePublished: Mon Jan 19 2026 11:26:17 GMT+0000 (Coordinated Universal Time)
 cuid: cmkl2xom9000u02jlf8al99n7
 slug: how-to-transition-into-aiml-as-a-full-stack-developer
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768817950373/c4bcc47d-9275-4a8a-996d-9090810fbaf7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768822309992/74af7a35-120d-432a-bbfd-d42fa9f2d835.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1768821935501/ddcab90b-5ffc-44cd-a28d-6262412ff394.png
 tags: machine-learning, mlops, fullstackdevelopment, career-transition, ai-engineering
 
